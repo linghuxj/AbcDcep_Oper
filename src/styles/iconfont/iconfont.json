@@ -1,0 +1,16 @@
+{
+  "id": "2956015",
+  "name": "运营平台",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1191702",
+      "name": "问号",
+      "font_class": "wenhao",
+      "unicode": "e71d",
+      "unicode_decimal": 59165
+    }
+  ]
+}
